@@ -1,0 +1,13 @@
+/target
+node_modules
+.env
+.env.local
+.env.development
+.env.production
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
